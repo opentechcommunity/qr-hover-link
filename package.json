@@ -29,7 +29,7 @@
     "url": "https://github.com/opentechcommunity/qr-hover-link.git",
     "directory": "qr-hover-link"
   },
-  "homepage": "https://opentechcommunity.github.io/qr-hover-link",
+  "homepage": "https://opentechcommunity.github.io/qr-hover-demo",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=17.0.0",
