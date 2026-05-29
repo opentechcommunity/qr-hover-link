@@ -23,7 +23,13 @@
     "component",
     "npm-package"
   ],
-  "author": "",
+  "author": "Arjun Gautam <contact@gautamarjun.com.np>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opentechcommunity/qr-hover-link.git",
+    "directory": "qr-hover-link"
+  },
+  "homepage": "https://opentechcommunity.github.io/qr-hover-link",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=17.0.0",
