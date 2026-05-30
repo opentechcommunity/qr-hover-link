@@ -1,6 +1,6 @@
 {
   "name": "qr-hover-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A React component that overlays a clickable link on a QR code image when hovered — no phone needed.",
   "main": "dist/index.js",
@@ -26,10 +26,9 @@
   "author": "Arjun Gautam <contact@gautamarjun.com.np>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/opentechcommunity/qr-hover-link.git",
-    "directory": "qr-hover-link"
+    "url": "https://github.com/opentechcommunity/qr-hover-link.git"
   },
-  "homepage": "https://opentechcommunity.github.io/qr-hover-demo",
+  "homepage": "https://opentechcommunity.github.io/qr-hover-demo/",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=17.0.0",

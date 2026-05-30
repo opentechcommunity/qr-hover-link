@@ -2,6 +2,8 @@
 
 > A React component that overlays a clickable link on a QR code image when hovered — no phone needed.
 
+**[→ Live demo](https://opentechcommunity.github.io/qr-hover-demo/)** · [npm](https://www.npmjs.com/package/qr-hover-link) · [GitHub](https://github.com/opentechcommunity/qr-hover-link)
+
 QR codes are great for mobile users, but desktop visitors have to pull out their phone just to follow a link. `qr-hover-link` solves that: wrap your QR image with this component and a clean overlay appears on hover, showing the encoded URL as a real, clickable link.
 
 Defaults are intentionally minimal — **black, white, and transparency only** — so it fits any site theme out of the box. Every visual detail is customisable via props.
